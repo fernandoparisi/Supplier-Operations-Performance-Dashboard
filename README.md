@@ -68,4 +68,16 @@ The main objectives of this dashboard are to:
 
 ---
 
+## 📁 Repository Structure & Files Description
+
+This repository contains the following files used to build and document the dashboard:
+
+- **Supplier Operations Performance Dashboard.pbix**: Interactive **Power BI report file**
+- **Supplier Operations Performance Dashboard_2025.pdf**: Static **snapshot of the dashboard for year 2025**, exported from Power BI.
+- **ME2N.xlsx**: SAP export related to **Purchase Orders**.
+- **MB51.xlsx**: SAP export related to **Goods Movements**
+- **Suppliers.xlsx**: Supplier master data and normalization
+
+---
+
 
