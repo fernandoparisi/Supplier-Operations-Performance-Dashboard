@@ -28,3 +28,29 @@ The main objectives of this dashboard are:
 - **% Units Delivered**
 - **% USD Delivered**
 
+- ### Main Visualizations:
+- Pending Units by Supplier
+- Pending USD by Supplier
+- Monthly Units Delivered (time series)
+- Detailed transactional table by:
+  - Month
+  - Supplier
+  - Material Document
+  - Delivery performance (%)
+
+---
+
+## 🧠 Data Source
+- **Original data extracted from SAP** 
+- Data was exported to **CSV files** and processed in Power BI
+- Supplier names and sensitive identifiers were **anonymized** for confidentiality purposes
+
+---
+
+## 🛠 Tools Used
+- **Power BI**
+- **DAX**
+- **Power Query**
+- **SAP (data source)**
+- **CSV files**
+
