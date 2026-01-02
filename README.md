@@ -54,3 +54,12 @@ The main objectives of this dashboard are:
 - **SAP (data source)**
 - **CSV files**
 
+---
+
+- ## Key Insights
+
+- **Supplier delivery concentration risk**: A small number of suppliers account for the majority of **pending units and pending USD**, increasing operational risk if delivery delays occur.
+- **Mismatch between units delivered and financial execution**:The percentage of **USD delivered is lower than the percentage of units delivered**, indicating that higher-value items tend to be delivered later.
+- **Uneven delivery performance throughout the year**: Monthly delivery volumes show strong variability, with clear peaks and drops, suggesting opportunities to improve planning accuracy, supplier coordination, and workload leveling across periods.
+
+
