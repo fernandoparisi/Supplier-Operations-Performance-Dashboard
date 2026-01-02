@@ -11,6 +11,8 @@ The dashboard provides a clear operational view of:
 
 ![Captura](https://github.com/user-attachments/assets/39367756-7347-4fee-904e-291e1ccf9755)
 
+---
+
 ## 🎯 Business Purpose
 The main objectives of this dashboard are:
 - Track **Purchase Orders (POs)** and their fulfillment status
@@ -56,7 +58,7 @@ The main objectives of this dashboard are:
 
 ---
 
-- ## Key Insights
+- ## 🔍 Key Insights
 
 - **Supplier delivery concentration risk**: A small number of suppliers account for the majority of **pending units and pending USD**, increasing operational risk if delivery delays occur.
 - **Mismatch between units delivered and financial execution**:The percentage of **USD delivered is lower than the percentage of units delivered**, indicating that higher-value items tend to be delivered later.
