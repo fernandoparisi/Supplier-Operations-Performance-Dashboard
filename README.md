@@ -11,3 +11,20 @@ The dashboard provides a clear operational view of:
 
 ![Captura](https://github.com/user-attachments/assets/39367756-7347-4fee-904e-291e1ccf9755)
 
+## 🎯 Business Purpose
+The main objectives of this dashboard are:
+- Track **Purchase Orders (POs)** and their fulfillment status
+- Identify suppliers with **high pending units or USD exposure**
+- Monitor **monthly delivery trends**
+- Support **data-driven decisions** in procurement and supplier management
+
+---
+
+## 📊 Key Metrics & Visuals
+- **Total POs**
+- **Total PO Line Items**
+- **Total Ordered Units**
+- **Total PO Value (USD)**
+- **% Units Delivered**
+- **% USD Delivered**
+
