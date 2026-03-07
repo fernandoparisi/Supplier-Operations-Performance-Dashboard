@@ -4,7 +4,7 @@ This repository contains two Power BI dashboards that provide a comprehensive vi
 
 ---
 
-## 📌 Dashboard 1 – Supplier Operations Performance
+## 📌 Dashboard 1 
 
 <img width="1071" height="611" alt="image" src="https://github.com/user-attachments/assets/4eb8b2b2-c69c-4c82-8e83-1a5667dd0561" />
 
@@ -38,7 +38,7 @@ An end-to-end dashboard focused on monitoring purchase order execution, delivery
 
 ---
 
-## 📌 Dashboard 2 – Supplier Performance
+## 📌 Dashboard 2 
 
 <img width="1070" height="609" alt="image" src="https://github.com/user-attachments/assets/5c7fe654-f88f-40d8-98bc-37b615ed1f42" />
 
