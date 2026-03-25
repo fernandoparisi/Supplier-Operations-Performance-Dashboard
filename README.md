@@ -2,7 +2,7 @@
 
 This repository contains two Power BI dashboards that provide a comprehensive view of supplier operations and performance, designed to support procurement, supply chain, and supplier management teams.
 
-![Supplier Operations Performance Dashboard](https://github.com/user-attachments/assets/1947700f-55ab-4cd3-85af-938aacac3ef9)
+![Supplier Operations Performance Dashboard](https://github.com/user-attachments/assets/fe750da1-cb76-4441-b23b-ba2fdb5b76ac)
 
 ---
 
