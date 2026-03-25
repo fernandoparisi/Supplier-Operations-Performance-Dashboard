@@ -75,7 +75,8 @@ A dashboard focused on supplier delivery efficiency, lead time, and units delive
 
 ## 📁 Files in Repository
 - `Supplier Operations Performance Dashboard.pbix`  
-- `Supplier Operations Performance Dashboard.pdf`  
+- `Supplier Operations Performance Dashboard.pdf`
+- `Supplier Performance Dashboard.gif`
 - `ME2N.xlsx`  
 - `MB51.xlsx`  
 - `Suppliers.xlsx`  
