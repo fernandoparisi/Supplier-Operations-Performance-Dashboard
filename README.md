@@ -1,6 +1,6 @@
 # Supplier Operations Performance Dashboard
 
-This repository contains two Power BI dashboards that provide a comprehensive view of supplier operations and performance, designed to support procurement, supply chain, and supplier management teams in data-driven decision-making.
+This repository contains two Power BI dashboards that provide a comprehensive view of supplier operations and performance, designed to support procurement, supply chain, and supplier management teams.
 
 ---
 
@@ -9,13 +9,13 @@ This repository contains two Power BI dashboards that provide a comprehensive vi
 <img width="1071" height="611" alt="image" src="https://github.com/user-attachments/assets/4eb8b2b2-c69c-4c82-8e83-1a5667dd0561" />
 
 ### Overview
-An end-to-end dashboard focused on monitoring purchase order execution, delivery performance, and financial exposure.
+A dashboard focused on monitoring purchase order execution, delivery performance, and financial exposure.
 
 ### Business Purpose
 - Track Purchase Orders (POs) and their fulfillment status  
 - Identify suppliers with high pending units or USD exposure  
 - Monitor monthly delivery trends  
-- Support data-driven decisions in procurement and supplier management  
+- Support decisions in procurement and supplier management  
 
 ### Key Metrics & Visuals
 **KPIs:** Total POs, Total PO Line Items, Total Ordered Units, Total PO Value (USD), % Units Delivered, % USD Delivered  
